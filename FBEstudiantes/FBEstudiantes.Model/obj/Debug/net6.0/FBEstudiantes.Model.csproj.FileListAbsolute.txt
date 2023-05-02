@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\Proyecto angular\FBEstudiantes\FBEstudiantes.Model\bin\Debug\net6.0\FBEstudiantes.Model.deps.json
+C:\Users\user\Desktop\Proyecto angular\FBEstudiantes\FBEstudiantes.Model\bin\Debug\net6.0\FBEstudiantes.Model.dll
+C:\Users\user\Desktop\Proyecto angular\FBEstudiantes\FBEstudiantes.Model\bin\Debug\net6.0\FBEstudiantes.Model.pdb
+C:\Users\user\Desktop\Proyecto angular\FBEstudiantes\FBEstudiantes.Model\obj\Debug\net6.0\FBEstudiantes.Model.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Proyecto angular\FBEstudiantes\FBEstudiantes.Model\obj\Debug\net6.0\FBEstudiantes.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Proyecto angular\FBEstudiantes\FBEstudiantes.Model\obj\Debug\net6.0\FBEstudiantes.Model.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Proyecto angular\FBEstudiantes\FBEstudiantes.Model\obj\Debug\net6.0\FBEstudiantes.Model.AssemblyInfo.cs
+C:\Users\user\Desktop\Proyecto angular\FBEstudiantes\FBEstudiantes.Model\obj\Debug\net6.0\FBEstudiantes.Model.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Proyecto angular\FBEstudiantes\FBEstudiantes.Model\obj\Debug\net6.0\FBEstudiantes.Model.dll
+C:\Users\user\Desktop\Proyecto angular\FBEstudiantes\FBEstudiantes.Model\obj\Debug\net6.0\refint\FBEstudiantes.Model.dll
+C:\Users\user\Desktop\Proyecto angular\FBEstudiantes\FBEstudiantes.Model\obj\Debug\net6.0\FBEstudiantes.Model.pdb
+C:\Users\user\Desktop\Proyecto angular\FBEstudiantes\FBEstudiantes.Model\obj\Debug\net6.0\ref\FBEstudiantes.Model.dll
